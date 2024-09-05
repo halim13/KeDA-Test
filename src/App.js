@@ -27,20 +27,6 @@ function App() {
       </Routes>
     </Router>
   )
-
-  return (
-    <Router>
-      <Header />
-      {/* <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/pricing" element={<Pricing />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/login" element={<Login onLogin={login} />} />
-        <Route path="/dashboard" element={isAuthenticated ? <Dashboard /> : <Navigate to="/login" />} />
-      </Routes> */}
-    </Router>
-  );
 }
 
 export default App;
