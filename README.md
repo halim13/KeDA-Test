@@ -51,6 +51,10 @@ username: user
 
 password: password
 
+### deploy app
+
+[Netlify](https://keda-test-halim.netlify.app)
+
 ### screenshoot
 <img width="1583" alt="image" src="https://github.com/user-attachments/assets/0e41b65e-2d3e-46f1-82f9-88ef5c695e29">
 
