@@ -22,7 +22,7 @@ function About() {
                 <li><i className="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
                 <li><i className="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
               </ul>
-              <a href="#" className="read-more"><span>Read More</span><i className="bi bi-arrow-right"></i></a>
+              <a href="/" className="read-more"><span>Read More</span><i className="bi bi-arrow-right"></i></a>
             </div>
 
             <div className="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">

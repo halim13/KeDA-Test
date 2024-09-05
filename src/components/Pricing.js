@@ -20,7 +20,7 @@ function Pricing() {
               <div className="pricing-item">
                 <h3>Basic Plan</h3>
                 <h4><sup>$</sup>10<span> / month</span></h4>
-                <a href="#" className="cta-btn">Start a free trial</a>
+                <a href="/" className="cta-btn">Start a free trial</a>
                 <p className="text-center small">No credit card required</p>
                 <ul>
                   <li><i className="bi bi-check"></i> <span>Mencatat barang masuk dan keluar</span></li>
@@ -39,7 +39,7 @@ function Pricing() {
                 <p className="popular">Popular</p>
                 <h3>Business Plan</h3>
                 <h4><sup>$</sup>15<span> / month</span></h4>
-                <a href="#" className="cta-btn">Start a free trial</a>
+                <a href="/" className="cta-btn">Start a free trial</a>
                 <p className="text-center small">No credit card required</p>
                 <ul>
                   <li><i className="bi bi-check"></i> <span>Mencatat barang masuk dan keluar</span></li>
@@ -57,7 +57,7 @@ function Pricing() {
               <div className="pricing-item">
                 <h3>3/Entrepreneur Plan</h3>
                 <h4><sup>$</sup>20<span> / month</span></h4>
-                <a href="#" className="cta-btn">Start a free trial</a>
+                <a href="/" className="cta-btn">Start a free trial</a>
                 <p className="text-center small">No credit card required</p>
                 <ul>
                   <li><i className="bi bi-check"></i> <span>Mencatat barang masuk dan keluar</span></li>
