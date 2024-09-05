@@ -1,5 +1,4 @@
-import React, {useEffect} from 'react';
-import {Link} from 'react-router-dom';
+import React from 'react';
 import Hero from '../components/Hero';
 import About from '../components/About';
 import Pricing from '../components/Pricing';
